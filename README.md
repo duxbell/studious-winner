@@ -1,2 +1,2 @@
 # studious-winner
-cs50 &others
+cs50 & others
